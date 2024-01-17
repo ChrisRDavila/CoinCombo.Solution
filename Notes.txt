@@ -1,0 +1,11 @@
+use constructor to create instance of coins
+
+amount for input get, set
+
+determine total coins
+find amounts of each type of coins
+
+other combo functions
+
+
+
