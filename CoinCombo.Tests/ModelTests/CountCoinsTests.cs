@@ -99,6 +99,4 @@ namespace CoinCombo.Tests
       CollectionAssert.AreEqual(result, sample);
     }
   }
-
-  
 }    
